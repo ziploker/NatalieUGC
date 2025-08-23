@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1rem;
+  background: #f5f5f5;
+}
+
+.navbar a {
+  margin: 0 1rem;
+}
